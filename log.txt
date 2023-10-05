@@ -1,0 +1,9 @@
+04/10/2023 14:34:16https://www.alura.com.br/ - online: true
+04/10/2023 14:34:17https://www.google.com.br/ - online: true
+04/10/2023 14:34:19https://www.pucrs.br/ - online: true
+04/10/2023 14:34:29https://www.alura.com.br/ - online: true
+04/10/2023 14:34:31https://www.google.com.br/ - online: true
+04/10/2023 14:34:32https://www.pucrs.br/ - online: true
+04/10/2023 14:34:42https://www.alura.com.br/ - online: true
+04/10/2023 14:34:42https://www.google.com.br/ - online: true
+04/10/2023 14:34:43https://www.pucrs.br/ - online: true
